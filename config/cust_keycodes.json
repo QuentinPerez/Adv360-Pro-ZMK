@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"&trans"
+		],
+		"description": "&trans",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
